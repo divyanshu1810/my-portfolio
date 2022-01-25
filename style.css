@@ -364,7 +364,7 @@ p {
     color: white;
 }
 #projects .project-info a{
-    color: black;
+    color: rgb(230,119,16);
     font-weight: 700;
 }
 #projects .project-info h1 {
